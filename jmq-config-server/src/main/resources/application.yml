@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/Christian021Lh/DADExamen.git
           searchPaths: config-data
           default-label: main
   security:
